@@ -1,0 +1,26 @@
+电机驱动模块：
+w1-gpio-in  ->B12
+w2-gpio-in  ->B13
+w1-pwm-in   ->A8
+w2-pwm-in   ->A9
+w2-pwm-out  ->A1
+w1-pwm-out  ->A0
+红外模块
+一路：
+infrared_1_load_1  ->B14
+infrared_1_load_2  ->B15
+五路：
+infrared_5_load_out1  ->B1
+infrared_5_load_out2  ->B0
+infrared_5_load_out3  ->A7
+infrared_5_load_out4  ->A6
+infrared_5_load_out5  ->A5
+超声波模块:
+sound_drive		->A4
+sound_signal_collect	->A3
+蓝牙模块：
+TX1	->B6
+RX1	->B7
+串口屏：
+TX3	->B11
+RX3	->B10
