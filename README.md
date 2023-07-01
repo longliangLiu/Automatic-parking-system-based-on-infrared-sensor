@@ -4,7 +4,9 @@
 
 Solidworks建模图：
 
-<img src="C:\Users\27295\AppData\Roaming\Typora\typora-user-images\image-20230701202027132.png" alt="image-20230701202027132" style="zoom: 67%;" />
+![img](https://github.com/longliangLiu/Automatic-parking-system-based-on-infrared-sensor/blob/main/images/sw建模图.png)
+
+
 
 
 
